@@ -1,0 +1,352 @@
+module.exports = [{
+"varenr": 1234,
+"navn": "St. Clemens",
+"type": "Blåskimmel",
+"pris": 42.5,
+"antal": 57,
+"beskrivelse": {
+    "producent": "St. Clemens",
+    "vægt": 300,
+    "land": "Danmark",
+    "fedtinhold": "35%",
+    "smag": "mild",
+    "billede": "skimmelblå.jpeg"
+}
+}, {
+"varenr": 23423,
+"navn": "President",
+"type": "Brie",
+"pris": 37.95,
+"antal": 14,
+"beskrivelse": {
+    "producent": "President",
+    "vægt": 250,
+    "land": "Frankrig",
+    "fedtinhold": "40%",
+    "smag": "mild",
+    "billede": "presidentbrie.jpg"
+}
+}, {
+"varenr": 100,
+"navn": "Joe's",
+"type": "Blåskimmel",
+"pris": 50,
+"antal": 60,
+"beskrivelse": {
+    "producent": "Joe's",
+    "vægt": 400,
+    "land": "Tyskland",
+    "fedtinhold": "35%",
+    "smag": "Stærk",
+    "billede": "Joesskimmel.jpg"
+}
+}, {
+"varenr": 110,
+"navn": "Feta",
+"type": "Feta",
+"pris": 30,
+"antal": 205,
+"beskrivelse": {
+    "producent": "Feta",
+    "vægt": 100,
+    "land": "Holland",
+    "fedtinhold": "38%",
+    "smag": "mild",
+    "billede": "fetaost.jpg"
+}
+}, {
+"varenr": 120,
+"navn": "Myse",
+"type": "Blåskimmel",
+"pris": 52,
+"antal": 63,
+"beskrivelse": {
+    "producent": "Myse",
+    "vægt": 280,
+    "land": "Månen",
+    "fedtinhold": "45%",
+    "smag": "mellem",
+    "billede": "myseost.jpg"
+}
+}, {
+"varenr": 130,
+"navn": "Rocheford",
+"type": "Blåskimmel",
+"pris": 54,
+"antal": 250,
+"beskrivelse": {
+    "producent": "Roquefort",
+    "vægt": 210,
+    "land": "Frankrig",
+    "fedtinhold": "95%",
+    "smag": "stærk",
+    "billede": "rochefordblaaskimmel.jpg"
+}
+}, {
+"varenr": 140,
+"navn": "Danbo",
+"type": "Koost",
+"pris": 29,
+"antal": 59,
+"beskrivelse": {
+    "producent": "Danbo",
+    "vægt": 400,
+    "land": "Danmark",
+    "fedtinhold": "20%",
+    "smag": "mild",
+    "billede": "danboost.jpg"
+}
+}, {
+"varenr": 150,
+"navn": "Shopp",
+"type": "Smelteost",
+"pris": 47.5,
+"antal": 145,
+"beskrivelse": {
+    "producent": "Shopp",
+    "vægt": 140,
+    "land": "Schweiz",
+    "fedtinhold": "35%",
+    "smag": "mild",
+    "billede": "shoppost.jpg"
+}
+}, {
+"varenr": 160,
+"navn": "Gouda",
+"type": "Goudaost",
+"pris": 41.5,
+"antal": 507,
+"beskrivelse": {
+    "producent": "Gouda",
+    "vægt": 278,
+    "land": "Holland",
+    "fedtinhold": "35%",
+    "smag": "mild",
+    "billede": "goudaost.jpg"
+}
+}, {
+"varenr": 170,
+"navn": "Parmagiano",
+"type": "Parmesan",
+"pris": 52.5,
+"antal": 537,
+"beskrivelse": {
+    "producent": "Parmagiano",
+    "vægt": 145,
+    "land": "Europa",
+    "fedtinhold": "35%",
+    "smag": "mild",
+    "billede": "parmagianoost.jpg"
+}
+}, {
+"varenr": 180,
+"navn": "Mozarella",
+"type": "Mozerella",
+"pris": 10,
+"antal": 1456,
+"beskrivelse": {
+    "producent": "Campiana",
+    "vægt": 20,
+    "land": "Italien",
+    "fedtinhold": "35%",
+    "smag": "mild",
+    "billede": "campiana.jpg"
+}
+}, {
+"varenr": 190,
+"navn": "Areesh",
+"type": "cottage",
+"pris": 90,
+"antal": 245,
+"beskrivelse": {
+    "producent": "Arash",
+    "vægt": 97,
+    "land": "Egypten",
+    "fedtinhold": "35%",
+    "smag": "mellem",
+    "billede": "areeshost.jpg"
+}
+}, {
+"varenr": 200,
+"navn": "Rubin",
+"type": "Gedeost",
+"pris": 27,
+"antal": 26,
+"beskrivelse": {
+    "producent": "Rubost",
+    "vægt": 178,
+    "land": "Kina",
+    "fedtinhold": "20%",
+    "smag": "stærk",
+    "billede": "rubinost.jpg"
+}
+}, {
+"varenr": 210,
+"navn": "Khoya",
+"type": "Hvedeost",
+"pris": 140,
+"antal": 478,
+"beskrivelse": {
+    "producent": "Ricmilk",
+    "vægt": 246,
+    "land": "Indien",
+    "fedtinhold": "40%",
+    "smag": "mellem",
+    "billede": "khoya.jpg"
+}
+}, {
+"varenr": 220,
+"navn": "DenLeendeKo",
+"type": "Smørost",
+"pris": 88.5,
+"antal": 87,
+"beskrivelse": {
+    "producent": "Arla",
+    "vægt": 100,
+    "land": "Danmark",
+    "fedtinhold": "10%",
+    "smag": "mild",
+    "billede": "denleendeko.jpg"
+}
+}, {
+"varenr": 230,
+"navn": "Pizzaost",
+"type": "Mozarella",
+"pris": 9.5,
+"antal": 1400,
+"beskrivelse": {
+    "producent": "Kløver",
+    "vægt": 250,
+    "land": "Danmark",
+    "fedtinhold": "35%",
+    "smag": "mellem",
+    "billede": "pizzaost.jpg"
+}
+}, {
+"varenr": 240,
+"navn": "CheeseDippers",
+"type": "flødeost",
+"pris": 15,
+"antal": 100,
+"beskrivelse": {
+    "producent": "Dipsa",
+    "vægt": 200,
+    "land": "Spanien",
+    "fedtinhold": "15%",
+    "smag": "mild",
+    "billede": "cheesedippers.jpg"
+}
+}, {
+"varenr": 250,
+"navn": "TyrkiskFeta",
+"type": "Fetaost",
+"pris": 35,
+"antal": 110,
+"beskrivelse": {
+    "producent": "Turka",
+    "vægt": 500,
+    "land": "Tyrkiet",
+    "fedtinhold": "35%",
+    "smag": "mellem",
+    "billede": "tyrkiskfeta.jpg"
+}
+}, {
+"varenr": 260,
+"navn": "Havarti",
+"type": "Flødeost",
+"pris": 20,
+"antal": 57,
+"beskrivelse": {
+    "producent": "Danbo",
+    "vægt": 250,
+    "land": "Danmark",
+    "fedtinhold": "35%",
+    "smag": "mellem",
+    "billede": "havarti.jpg"
+}
+}, {
+"varenr": 270,
+"navn": "GoatCheese",
+"type": "gedeost",
+"pris": 52,
+"antal": 27,
+"beskrivelse": {
+    "producent": "G-Cheese",
+    "vægt": 180,
+    "land": "Polen",
+    "fedtinhold": "50%",
+    "smag": "stærk",
+    "billede": "goatcheese.jpg"
+}
+}, {
+"varenr": 280,
+"navn": "Tex-Mex",
+"type": "Cheddar",
+"pris": 12.5,
+"antal": 46,
+"beskrivelse": {
+    "producent": "DaCheese",
+    "vægt": 150,
+    "land": "Spanien",
+    "fedtinhold": "35%",
+    "smag": "mellem",
+    "billede": "texmex.jpg"
+}
+}, {
+"varenr": 290,
+"navn": "KarolinesOsteSauce",
+"type": "Ostesauce",
+"pris": 18,
+"antal": 27,
+"beskrivelse": {
+    "producent": "Karolines",
+    "vægt": 250,
+    "land": "Danmark",
+    "fedtinhold": "35%",
+    "smag": "mellem",
+    "billede": "karolinesost.jpg"
+}
+}, {
+"varenr": 300,
+"navn": "DanishBlue",
+"type": "Blåskimmel",
+"pris": 52,
+"antal": 17,
+"beskrivelse": {
+    "producent": "DanishBlue",
+    "vægt": 300,
+    "land": "Danmark",
+    "fedtinhold": "47%",
+    "smag": "stærk",
+    "billede": "danishblue.jpg"
+}
+}, {
+"varenr": 310,
+"navn": "Saga",
+"type": "BlåskimmelBrie",
+"pris": 67.5,
+"antal": 457,
+"beskrivelse": {
+    "producent": "Saga",
+    "vægt": 300,
+    "land": "Danmark",
+    "fedtinhold": "40%",
+    "smag": "stærk",
+    "billede": "saga.jpg"
+}
+}, {
+"varenr": 320,
+"navn": "Aura",
+"type": "Blåskimmel",
+"pris": 42.5,
+"antal": 57,
+"beskrivelse": {
+    "producent": "Aura",
+    "vægt": 300,
+    "land": "Italien",
+    "fedtinhold": "35%",
+    "smag": "stærk",
+    "billede": "aura.jpg"
+}
+}
+];
