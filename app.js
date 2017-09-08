@@ -1,8 +1,8 @@
 const restify = require('restify');
 
 const server = restify.createServer({
-    'name': 'osteapi',
-    'version': '1.1.0'
+	'name': 'osteapi',
+	'version': '1.1.0'
 
 });
 
